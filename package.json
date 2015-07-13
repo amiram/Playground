@@ -1,0 +1,9 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.1",
+    "nano": "^6.1.4"
+  }
+}
